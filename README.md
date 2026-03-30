@@ -7,7 +7,7 @@
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim & Mingau 🐤🐥
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />

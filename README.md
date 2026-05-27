@@ -1,20 +1,18 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=E58A9F&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+visitor%21;I'm+Fey%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=100&color=E58A9F&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello+visitor%21;I'm+Fey%2C+a+tech+tryhard+" width="70%" />
 <br><br>
 <pre>
-    💼 Informatics @ ITS • Data Enthusiast & Designer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
+    💻 Informatics @ ITS • Data Enthusiast-Designer
+    📖 Data Engineering & Analytics • ML • UI/UX Design
     🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim & Mingau 🐤🐥
+    🐈‍⬛ Reach me w/ fayzahumam@gmail.com
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
     
-<!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
-<!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@necloid)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/necloid)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/6nrv6tcwlfb0wgreldipd6elc?si=4caffaa3eadb47b1)
 </div>

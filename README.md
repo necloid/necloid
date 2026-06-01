@@ -5,7 +5,7 @@
     💻 Informatics @ ITS • Data Enthusiast-Designer
     📖 Data Engineering & Analytics • ML • UI/UX Design
     🎮 Music • Games • Anime • Code • Art
-    🐈‍⬛ Reach me w/ fayzahumam@gmail.com
+    🐈‍⬛ Reach me w/ feyscomputer@gmail.com
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
